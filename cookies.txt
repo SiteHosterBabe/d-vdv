@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.grandtheftvicecity.site	TRUE	/	FALSE	1999999999	hs	-908589269
+www.grandtheftvicecity.site	TRUE	/	FALSE	1999999999	svSession	b39dc4913cc368d39e8bc82fa7d0623192cbf5e2aaffc92fb8a87521f3b327fc1edc0c2493632f2f234fda67dc73afdd1e60994d53964e647acf431e4f798bcdc7d6410a22269f46cdcf048f834424f987d30b31bf5c0145affb57cee2704810f0fcce22d3dd59e6de2efff359ab6e41fd8931de7c10d1fd1ea88e21aea8206b9cb4f14ec3e36d1fa5cc8761f9d6a228
+www.grandtheftvicecity.site	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1693601114|e0CIjUFWnrqb
+www.grandtheftvicecity.site	TRUE	/	FALSE	1999999999	SameSite	None
+www.grandtheftvicecity.site	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
